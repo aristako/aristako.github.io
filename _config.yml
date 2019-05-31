@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Ari"
-title_right   : "Anastassiou" # default: ""
+title_left    : "Ari Anastassiou"
+title_right   : "" # default: ""
 description   : ""
 keywords      : "machine learning, artificial intelligence, natural language processing, johannesburg, stellenbosch, edinburgh  "
 url           : https://aristako.github.io/ # site url
