@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 I am currently undertaking my MSc in Artificial Intelligence at The University of Edinburgh, with my main focus in the field of Natural Language Processing. I am currently supervised internally by Adam Lopez, and externally by Alan Nichol, from Rasa. My dissertation focuses on modeling dialogue with a conversational agent, with the aim of detecting (and avoiding) dialogue breakdown.
